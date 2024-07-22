@@ -16,6 +16,6 @@
         </style>
     </head>
     <body class="antialiased">
-        Welcome
+        Login Page
     </body>
 </html>
